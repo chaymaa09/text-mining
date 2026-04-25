@@ -9,7 +9,6 @@ Fichiers fournis
 ----------------
 - `mini_projet_text_mining.ipynb` : Notebook principal prêt à exécuter.
 - `requirements.txt` : dépendances Python.
-- `datasets/spam.csv` : jeu de données (déjà présent dans le workspace).
 
 Comment exécuter
 ----------------
